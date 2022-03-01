@@ -1,0 +1,2 @@
+ssh -p xxx <un>@192.168.xx.xx -L 5900:localhost:5900 x11vnc -listen localhost
+connect vnc client to localhost
